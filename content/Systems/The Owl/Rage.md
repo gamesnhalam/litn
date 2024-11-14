@@ -6,6 +6,7 @@ Là loại năng lượng chỉ tích được trong trận đấu.
 Rage sẽ làm đầy [[Rage Bar]].
 
 Cả [[The Owl]] và [[Anomaly]] đều có Rage. Rage được thể hiện trong Rage Bar.
+
 ![[20241114233724.png]]
 
 **Luật cộng điểm Rage**:
