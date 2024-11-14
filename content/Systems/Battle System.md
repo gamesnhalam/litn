@@ -1,6 +1,7 @@
 ---
 tags:
   - systemdesign
+  - battle
 ---
 
 | Sub Feature | Note                                                                      |
