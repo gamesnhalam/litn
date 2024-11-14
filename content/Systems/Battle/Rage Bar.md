@@ -1,6 +1,6 @@
 ---
 tags:
-  - stats
+  - battle
 ---
 Là thanh chứa [[Rage]], thể hiện dưới dạng thanh trong [[battle]].
  ![[20241114232632.png]]

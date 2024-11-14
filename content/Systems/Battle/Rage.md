@@ -1,6 +1,6 @@
 ---
 tags:
-  - stats
+  - battle
 ---
 Là loại năng lượng chỉ tích được trong trận đấu. 
 Rage sẽ làm đầy [[Rage Bar]].
