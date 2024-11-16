@@ -4,8 +4,8 @@ tags:
   - anomaly
 ---
 
-| Sub Feature | Note          |
-| ----------- | ------------- |
-| Behavior    | Behavior tree |
-| Skills      | Kĩ năng       |
+| Sub Feature            | Note          |
+| ---------------------- | ------------- |
+| [[Anomaly - Behavior]] | Behavior tree |
+| [[Anomaly - Skills]]   | Kĩ năng       |
  

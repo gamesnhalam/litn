@@ -2,4 +2,4 @@
 tags:
   - anomaly
 ---
-Anomaly
+Anomaly là phe đối nghịch của [[The Owl]].
